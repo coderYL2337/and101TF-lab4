@@ -75,6 +75,9 @@ There is now a tiny yellow button shown. It's a bit small to be interacted with,
 Is this the **real** red button? Has our journey finally come to an end? Only one way to find out.
 
 - [x] Tap the red button
+      
+#### Here is a Walk through video of the debugged app running 
+<img src='demoRedButtonAnd101Lab4.gif' />
 
 🎉 Congratulations, you've successfully completed the challenge! 🎉
 You have shown that you are more than capable as an Engineer, and the company will be extending an offer. Now go change the world! 🚀
